@@ -7,4 +7,6 @@ The project developed through a few steps:
 1. In September 2021 I in a group of 9 Discussed how teams differ on whether they have several players contributing to points or one key player that scores the points.
 2. We looked at the variance of a team's usage rate and compared it with their win percentage.
 3. 3.We then collaboratively linked NBA Team Win Percentage to Team Usage Rate Variance, which revealed a strong correlation of 0.66 and a multiple R-squared value of 0.43. Produced t-test results that reaffirmed a statistically significant relationship where increased usage of one or two talented star players trumps holistic team usage of five average players
+
+
 ![NBA visualization-1](https://github.com/Rxbrooks15/NBA-visualization-Team-Usage-Rate-vs.-Team-Win-Percentage-/assets/112977778/23067838-2b33-42d3-bb70-55f7eec5a1a7)
